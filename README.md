@@ -1,6 +1,6 @@
 ## shoe-store
 
-###Diploma project for the React course.
+### Diploma project for the React course.
 It is an online shoe store. The aim is to create a working application with all the main functions that can be used.
 
 Main tasks and functionality:
